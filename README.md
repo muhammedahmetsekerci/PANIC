@@ -1,13 +1,10 @@
 # PANIC
-Game that Laggers team made in gamejam 
 
-<b> Game Trailer </b>
+<h3> Game that Laggers team made in gamejam </h3> 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VFQKMFx-Nw8
-" target="_blank"><img src="http://img.youtube.com/vi/VFQKMFx-Nw8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /></a>
+![Adsz_tasarm_36](https://github.com/muhammedahmetsekerci/PANIC/assets/96115180/d636b765-d005-4141-b72f-0eea5d1d36f5)
+[Game Trailer](https://youtu.be/VFQKMFx-Nw8) </br>
+[Game Files](https://drive.google.com/drive/folders/15EqXNKZ1UD_f8dzaB5Famccwn044pV8c?usp=drive_link)
 
 
-<b> Game files </b>
 
-https://drive.google.com/drive/folders/15EqXNKZ1UD_f8dzaB5Famccwn044pV8c?usp=drive_link
